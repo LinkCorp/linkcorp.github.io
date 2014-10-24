@@ -1,0 +1,12 @@
+# Site settings
+title: Link Corp
+email: contact@linkcorp.nyc
+description: > # this means to ignore newlines until "baseurl:"
+  People You Want To Be Connected With
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://linkcorp.nyc" # the base hostname & protocol for your site
+twitter_username: linkcorpnyc
+github_username:  linkcorp
+
+# Build settings
+markdown: kramdown
